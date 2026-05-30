@@ -15,7 +15,7 @@ A classification project that predicts whether a customer will churn using Rando
 customer-churn-prediction/
 │
 ├── customer_churn.ipynb   # Main notebook
-├── dataset.csv            # Dataset
+├── customer_churn.csv            # Dataset
 └── README.md
 ```
 
